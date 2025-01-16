@@ -1,34 +1,9 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& arr, int k) {
-
-
         vector<int> ans;
- 
-       
+
         deque<pair<int, int>> dq;
-        // int index = 0;
-        // int max = arr[0];
-
-        // // Precomputing for first k window size
-        // for (int i = 0; i < k; i++) {
-        //     if (arr[i] > max) {
-        //         max = arr[i];
-        //         index = i;
-        //     }
-        // }
-
-        // dq.emplace_back(index, arr[index]);
-        // ans.push_back(arr[index]);
-
-        // for (int i = index + 1; i < k; i++) {
-        //     while (!dq.empty() && dq.back().second < arr[i]) {
-        //         dq.pop_back();
-        //     }
-
-        //     dq.emplace_back(i, arr[i]);
-        // }
-
 
         int e = 0;
         int s = 0;
