@@ -5,12 +5,7 @@ public:
 
         vector<int> ans;
  
-        // if(k==1){
-        //     for(auto x:arr){
-        //         ans.push_back(x);
-        //     }
-        //     return ans;
-        // }
+       
         deque<pair<int, int>> dq;
         int index = 0;
         int max = arr[0];
@@ -59,7 +54,7 @@ public:
             
             //Shift Window
             e++;
-            // if(s<e)
+          
             s++;
         }
         return ans;
