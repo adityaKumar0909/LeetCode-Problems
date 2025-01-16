@@ -4,13 +4,13 @@ public:
 
 
         vector<int> ans;
-
-        if(k==1){
-            for(auto x:arr){
-                ans.push_back(x);
-            }
-            return ans;
-        }
+ 
+        // if(k==1){
+        //     for(auto x:arr){
+        //         ans.push_back(x);
+        //     }
+        //     return ans;
+        // }
         deque<pair<int, int>> dq;
         int index = 0;
         int max = arr[0];
@@ -34,15 +34,11 @@ public:
             dq.emplace_back(i, arr[i]);
         }
 
-        for (auto x : dq) {
-            cout << x.second << " ";
-        }
 
         int e = k;
         int s = 1;
 
         while (e < arr.size()) {
-            cout << "going for index :" << e << endl;
 
             // If max element goes out of window , pop it out
             if (dq.front().first < s) {
