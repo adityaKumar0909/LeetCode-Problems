@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
