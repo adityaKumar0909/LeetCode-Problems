@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& arr, int k) {
         vector<int> ans;
-
+        
         deque<pair<int, int>> dq;
 
         int e = 0;
