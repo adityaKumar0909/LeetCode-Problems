@@ -59,7 +59,7 @@ public:
             
             //Shift Window
             e++;
-            if(s<e)
+            // if(s<e)
             s++;
         }
         return ans;
