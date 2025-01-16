@@ -36,8 +36,6 @@ public:
         while (e < arr.size())
          {
 
-            
-
             // Now adding the new number
             while (!dq.empty() && dq.back().second < arr[e]) {
                 dq.pop_back();
@@ -50,8 +48,21 @@ public:
                 dq.pop_front();
             }
             
-            //The bottom most(front) element of queue is the maximum element 
-            //so store in answer vecror/ArrayListr
+            //This check wont increase value of S till we get a size of k ( window size)
+            //Dry run
+            /*
+
+            Suppose window size is 3
+            Iter 1: s=0 ,e=0
+            Iter 2: s=0 ,e=1
+            Iter 3: s=0 ,e=2
+            Iter 4: s=0 ,e=2
+
+            now that window size is 3 
+            Window will shift
+
+            */
+
             if (e-s+1==k){
                 ans.push_back(dq.front().second);
                 s++;
