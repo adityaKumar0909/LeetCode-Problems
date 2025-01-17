@@ -34,7 +34,7 @@ public:
             Iter 4: s=0 ,e=2
 
             now that window size is 3 
-            Window will shift
+            Window will start shifting
 
             */
 
