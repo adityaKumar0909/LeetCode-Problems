@@ -1,62 +1,49 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-
         if (s.length() < t.length())
             return "";
 
-        unordered_map<char, int> mpp1, mpp2;
+        vector<int> mpp1(128, 0), mpp2(128, 0);
 
-        // Frequency of elements of T
-        for (int i = 0; i < t.length(); i++) {
-            mpp1[t[i]]++;
+        // Frequency of characters in `t`
+        for (char c : t) {
+            mpp1[c]++;
         }
 
+        int required = t.length();
         int count = 0;
         int minWindowSize = INT_MAX;
+        int start = 0, end = 0;
+        int minStart = 0;
 
-        int start = 0;
-        int end = 0;
-        int k = 0; // This will be used to store minimum window size
-   
-        while(end<s.length())
-        {
-
-            if (mpp1.find(s[end]) != mpp1.end()) {
-                mpp2[s[end]]++;
-                if (mpp2[s[end]] == mpp1[s[end]])
+        while (end < s.length()) {
+            char endChar = s[end];
+            if (mpp1[endChar] > 0) { 
+                if (mpp2[endChar] < mpp1[endChar]) {  
                     count++;
+                }
+                mpp2[endChar]++;
             }
 
-            if (count == mpp1.size()) {
-                while (start < s.length() &&
-                       (mpp1.find(s[start]) == mpp1.end() ||
-                        mpp2[s[start]] > mpp1[s[start]])) {
-                    if (mpp1.find(s[start]) != mpp1.end()) {
-                        mpp2[s[start]]--;
-                
+            while (count == required) {
+                if (end - start + 1 < minWindowSize) {
+                    minWindowSize = end - start + 1;
+                    minStart = start;
+                }
+
+                char startChar = s[start];
+                if (mpp1[startChar] > 0) {
+                    mpp2[startChar]--;
+                    if (mpp2[startChar] < mpp1[startChar]) {  
+                        count--;
                     }
-                    // if(start<s.length())
-                    start++;
                 }
-
-                // k = ;
-                // minWindowSize = min(minWindowSize, end-start+1);
-                if( end - start + 1 < minWindowSize ){
-                    k = start;
-                    minWindowSize = end-start+1;
-                }
+                start++;
             }
-
             end++;
         }
-     
-        // If start crosses end, no valid window exists
-        if (start > end || minWindowSize ==INT_MAX) {
-            return "";
-        }
 
-        return s.substr(k,minWindowSize);
- 
+        return minWindowSize == INT_MAX ? "" : s.substr(minStart, minWindowSize);
     }
 };
