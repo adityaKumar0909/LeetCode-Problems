@@ -56,14 +56,14 @@ public:
 
         }
 
-        cout<<"Value of start : "<<start<<endl;
-        cout<<"Value of k : "<<k<<endl;
-        cout<<"Value of end : "<<end<<endl;
+        // cout<<"Value of start : "<<start<<endl;
+        // cout<<"Value of k : "<<k<<endl;
+        // cout<<"Value of end : "<<end<<endl;
 
 
 
 
-        cout<<minWindowSize<<endl;
+        // cout<<minWindowSize<<endl;
 
         // int start = 0;
         // while (start < s.length() && (mpp1.find(s[start]) == mpp1.end() ||
