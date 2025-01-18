@@ -18,8 +18,6 @@ public:
         int start = 0;
         int end = 0;
         int k = 0; // This will be used to store minimum window size
-  
-        // Traverse the whole of S and find frequency of each letter in T
    
         while(end<s.length())
         {
@@ -51,20 +49,14 @@ public:
             }
 
             end++;
-
-
         }
-
      
         // If start crosses end, no valid window exists
         if (start > end || minWindowSize ==INT_MAX) {
             return "";
         }
 
- 
-
         return s.substr(k,minWindowSize);
-
-       
+ 
     }
 };
