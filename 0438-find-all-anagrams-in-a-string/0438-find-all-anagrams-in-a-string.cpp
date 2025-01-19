@@ -9,7 +9,6 @@ public:
 
         for (auto x : p) {
             mpp1[int(x)]++;
-            cout << "Mapping " << x << endl;
         }
 
         int totalCount = 0;
