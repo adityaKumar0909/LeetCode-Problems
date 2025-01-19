@@ -13,8 +13,7 @@ public:
             //If current number exists in window
             if(mpp[nums[e]]>0){
                 maxSum = max(maxSum,sum);
-                cout<<maxSum<<endl;
-                // sum+=nums[e];
+               
             }
             sum+=nums[e];
             mpp[nums[e]]++;
@@ -27,14 +26,10 @@ public:
             }
 
 
-        //    sum+=
+       
             e++;
 
         }
-
-        // cout<<"sum:"<<sum<<endl;
-
-        
 
         return maxSum>sum ? maxSum : sum;;
 
