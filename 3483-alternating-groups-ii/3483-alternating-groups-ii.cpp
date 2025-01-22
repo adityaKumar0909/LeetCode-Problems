@@ -4,10 +4,8 @@ public:
 
         vector<int> arr = colors;
 
-        int toPlace = colors.size();
-        //Flattening circular array
 
-        for(int i = 0;i<toPlace;i++){
+        for(int i = 0;i<colors.size();i++){
             arr.push_back(colors[i]);
         }
        
@@ -16,6 +14,7 @@ public:
         int count2=0;
 
         for(int end=1;end<arr.size();end++){
+
             if(arr[end]!= arr[end-1]){
                 if(end-start+1 >= k){
                     count2++;
