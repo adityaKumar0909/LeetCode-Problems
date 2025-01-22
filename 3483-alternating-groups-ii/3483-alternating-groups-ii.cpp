@@ -11,9 +11,9 @@ public:
             arr.push_back(colors[i]);
         }
 
-       for(auto x: arr){
-        cout<<x<<" ";
-       }
+    //    for(auto x: arr){
+    //     cout<<x<<" ";
+    //    }
        
         int start = 0;
         int count1=0;
