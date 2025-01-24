@@ -1,50 +1,28 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int unique = 0;
-        int s = 0;
-        int e = 0;
-        int maxWindow = INT_MIN;
+        int s = 0, maxWindow = 0, unique = 0;
+        vector<int> freq(fruits.size(), 0); // Frequency vector to track counts of each fruit type
 
-        unordered_map<int,int> mpp;
+        for (int e = 0; e < fruits.size(); ++e) {
+            if (freq[fruits[e]] == 0) {
+                unique++; // A new fruit type is encountered
+            }
+            freq[fruits[e]]++;
 
-        while(e<fruits.size()){
-           //Increase it's frequency
-            mpp[fruits[e]]++;
-
-
-            //Dekho ki yeh unique ya nhi 
-            if(mpp[fruits[e]] == 1)
-            unique++;
-
-
-            // if(s<e && unique > 2){
-                while(unique > 2){
-
-                    if(mpp[fruits[s]] == 1)
-                    unique--;
-
-                    mpp[fruits[s]]--;
-                    s++;
-
-
-                    
+            // If there are more than 2 types of fruits, shrink the window
+            while (unique > 2) {
+                freq[fruits[s]]--;
+                if (freq[fruits[s]] == 0) {
+                    unique--; // A fruit type is completely removed
                 }
+                s++;
+            }
 
-                
-
-            // }
-
-            maxWindow = max(maxWindow , e-s+1);
-            
-
-            e++;
-
+            // Update the maximum window size
+            maxWindow = max(maxWindow, e - s + 1);
         }
 
-
-
         return maxWindow;
-
     }
 };
