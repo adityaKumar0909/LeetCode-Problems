@@ -19,9 +19,8 @@ public:
 
         
         }
-
+        // cout<<totalDays<<" days for " <<weight<<endl;
         return totalDays<=days;
- 
     }
 
     int shipWithinDays(vector<int>& weights, int days) {
