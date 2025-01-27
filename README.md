@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -137,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
