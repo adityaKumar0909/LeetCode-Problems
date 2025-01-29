@@ -8,25 +8,17 @@ public:
 
         int n = arr.size();
 
-        if(n==1){
+        int ans = 0;
 
-            if(arr[0]==0)
-            return 0;
-
-            return 1;
-
-        } 
-
-        for(int i = n-1;i>=0;i--){
-            if(arr[i]!=0)
-            count++;
-            if(arr[i] <= count && arr[i]!=0)
-            return arr[i];
+        for(int i=n-1;i>=0;i--){
+            if(arr[i]>0) count++;
+            
+            int elements = arr.size()-i;
+            
+            if(count == elements && arr[i] >=count) ans = count;
         }
 
-        // cout<<count;
-
-        return count;
+        return ans;
         
     }
 };
