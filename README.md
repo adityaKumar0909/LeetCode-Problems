@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0274-h-index](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0274-h-index) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
