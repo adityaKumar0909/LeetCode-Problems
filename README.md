@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1137-height-checker) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
 ## Greedy
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 ## Counting
