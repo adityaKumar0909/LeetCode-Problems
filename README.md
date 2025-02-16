@@ -23,6 +23,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
@@ -144,6 +145,7 @@
 | [0443-string-compression](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
@@ -184,6 +186,7 @@
 | [0242-valid-anagram](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0274-h-index) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
