@@ -50,6 +50,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -132,6 +133,7 @@
 | [0066-plus-one](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -146,6 +148,7 @@
 | [0283-move-zeroes](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
