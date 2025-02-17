@@ -13,7 +13,7 @@ public:
 
 
             long long val=leftSquareVal + rightSquareVal;
-            cout<<val<<" ";
+            // cout<<val<<" ";
 
             if(val==c)return true;
             else if(val>c)right--;
