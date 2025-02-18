@@ -25,11 +25,9 @@ public:
         while(i<s.length()){
 
             string temp = lastWord.substr(1)+lastWord[0];
-            cout<<"old word:"<<lastWord<<endl;
-            cout<<"new word:"<<temp<<endl;
+            
             if(temp < ans){
                 ans = temp;
-                cout<<"ans:"<<ans<<endl;
             }
             cout<<endl;
 
@@ -40,12 +38,7 @@ public:
            
         }
         
-        cout<<"ans:"<<smallest<<endl;
-        
-
         return ans;
-
-
         
     }
 };
