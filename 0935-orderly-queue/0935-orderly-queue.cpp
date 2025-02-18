@@ -10,18 +10,12 @@ public:
         
         int i=0;
         string ans = s ;
-        string lastWord = s;
-        while(i<s.length()){
-
-            string temp = lastWord.substr(1)+lastWord[0];
-            
-            if(temp < ans){
-                ans = temp;
-            }
-            lastWord = temp;
-            i++; 
-
-            
+        
+        for(int i=0;i<s.length();i++){
+            s = s.substr(1)+s[0]; 
+            if(s < ans){
+                ans = s;
+            } 
         }
         
         return ans;
