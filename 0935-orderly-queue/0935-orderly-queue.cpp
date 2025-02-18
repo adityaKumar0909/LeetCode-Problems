@@ -18,8 +18,6 @@ public:
             if(temp < ans){
                 ans = temp;
             }
-            cout<<endl;
-
             lastWord = temp;
             i++; 
 
