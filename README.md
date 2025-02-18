@@ -110,6 +110,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [0953-reverse-only-letters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -134,6 +135,7 @@
 | [0069-sqrtx](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -191,6 +193,7 @@
 | [0242-valid-anagram](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0274-h-index) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+| [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [0941-sort-array-by-parity](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
