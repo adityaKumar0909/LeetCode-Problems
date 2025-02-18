@@ -3,18 +3,8 @@ public:
     string orderlyQueue(string s, int k) {
         
         if(k>1){
-        int size = s.length();
-        vector<char> arr;
-        string ans;
-
-        for(int i=0;i<size;i++){
-            arr.push_back(s[i]);
-        }
-        
-        
-        sort(arr.begin(),arr.end());
-        for(auto x:arr) ans+=x;
-        return ans;
+        sort(s.begin(),s.end());
+        return s;
         }
 
         
