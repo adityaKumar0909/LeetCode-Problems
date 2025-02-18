@@ -20,7 +20,6 @@ public:
         
         int i=0;
         string ans = s ;
-        string smallest = s;
         string lastWord = s;
         while(i<s.length()){
 
