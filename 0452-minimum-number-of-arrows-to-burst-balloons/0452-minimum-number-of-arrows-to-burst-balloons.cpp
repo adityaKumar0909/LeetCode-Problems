@@ -9,9 +9,7 @@ public:
         int count = 1;
         for (int i = 1; i < points.size(); i++) {
 
-            // if(intEnd == points[i][0]){
-            //     intEnd = points[i][1];
-            // }
+            
             if (intEnd >= points[i][0] && intEnd <= points[i][1]) {
                 // count++;
             } else {
