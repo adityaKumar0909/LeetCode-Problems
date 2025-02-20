@@ -7,7 +7,8 @@ public:
 
         int intEnd = points[0][1];
         int count = 1;
-        for (int i = 1; i < points.size(); i++) {
+        int size = points.size();
+        for (int i = 1; i < size; i++) {
 
             if (intEnd < points[i][0]) {
                 count++;
