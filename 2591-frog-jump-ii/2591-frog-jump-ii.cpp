@@ -15,7 +15,6 @@ public:
         }
 
         lastIndex = n-1;
-        // maxJump = max(maxJump,stones[n-1] - stones[n-2]);
         for(int i=n-1;i>=0;i--){
             if(visited[i]==-1){
             maxJump = max(maxJump , abs(stones[i] - stones[lastIndex]) );
