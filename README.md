@@ -45,6 +45,7 @@
 | [1813-maximum-erasure-value](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2591-frog-jump-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2591-frog-jump-ii) |
@@ -237,4 +238,12 @@
 |  |
 | ------- |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
