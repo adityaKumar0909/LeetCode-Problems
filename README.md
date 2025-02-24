@@ -27,6 +27,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
@@ -65,6 +66,7 @@
 | [0441-arranging-coins](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
