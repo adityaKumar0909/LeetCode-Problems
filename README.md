@@ -42,6 +42,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1646-kth-missing-positive-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
@@ -62,6 +63,7 @@
 | [0633-sum-of-square-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1646-kth-missing-positive-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
