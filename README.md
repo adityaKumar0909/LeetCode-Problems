@@ -40,6 +40,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -63,6 +64,7 @@
 | [0633-sum-of-square-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1137-height-checker) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1970-sorting-the-sentence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
@@ -248,6 +252,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
