@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxProfitAssignment(vector<int>& difficulty, vector<int>& profit, vector<int>& worker) {
+        //Take a pair for storing difficulty and profit
         vector<pair<int, int>> difficultyProfit;
 
         // Store (difficulty, profit) pairs
@@ -10,6 +11,7 @@ public:
 
         // Sort jobs by difficulty
         sort(difficultyProfit.begin(), difficultyProfit.end());
+        
         // Sort workers by their skill level
         sort(worker.begin(), worker.end());
 
