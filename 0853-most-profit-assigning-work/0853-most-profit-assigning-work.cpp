@@ -11,7 +11,7 @@ public:
 
         // Sort jobs by difficulty
         sort(difficultyProfit.begin(), difficultyProfit.end());
-        
+
         // Sort workers by their skill level
         sort(worker.begin(), worker.end());
 
@@ -27,7 +27,6 @@ public:
         int jobIndex = 0;
         int bestProfit = 0;
 
-        // Two-pointer technique to find best jobs for workers
         for (int skill : worker) {
             while (jobIndex < difficultyProfit.size() && difficultyProfit[jobIndex].first <= skill) {
                 bestProfit = difficultyProfit[jobIndex].second;
