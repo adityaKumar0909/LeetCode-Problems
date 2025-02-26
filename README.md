@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0048-rotate-image) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
