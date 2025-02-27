@@ -20,7 +20,7 @@ public:
         for(auto x:candies)sum+=x;
 
         int start = 1;
-        int end = sum/k;
+        long long  end = sum/k;
 
 
         if(end==0) return 0;
