@@ -3,7 +3,7 @@ public:
 
     bool ifPossible(vector<int>candies,int num, int k){
 
-       int count = 0;
+       long long count = 0;
        for(int i=candies.size()-1;i>=0;i--){
         if(candies[i]>=num) count+=candies[i]/num;
        }
@@ -46,7 +46,7 @@ public:
         cout<<"end:"<<end<<endl;
 
 
-        return end;
+        return start-1;
         
     }
 };
