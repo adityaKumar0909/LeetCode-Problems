@@ -15,7 +15,7 @@ public:
 
     int maximumCandies(vector<int>& candies, long long k) {
 
-        sort(candies.begin(),candies.end());
+        // sort(candies.begin(),candies.end());
         long long sum = 0;
         for(auto x:candies)sum+=x;
 
