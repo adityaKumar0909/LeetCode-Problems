@@ -7,8 +7,7 @@ public:
        for(int i=candies.size()-1;i>=0;i--){
         if(candies[i]>=num) count+=candies[i]/num;
        }
-        cout<<count<<endl;
-        cout<<"for "<<num<<" "<<(count>=k)<<endl;
+      
         return count>=k;
 
     }
@@ -22,9 +21,6 @@ public:
         int start = 1;
         int end = sum/k;
 
-        cout<<"start:"<<start<<endl;
-        cout<<"end:"<<end<<endl;
-        cout<<endl;
 
         if(end==0) return 0;
         
@@ -41,9 +37,6 @@ public:
             }
 
         }
-
-        cout<<"start:"<<start<<endl;
-        cout<<"end:"<<end<<endl;
 
 
         return start-1;
