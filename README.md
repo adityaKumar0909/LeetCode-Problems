@@ -49,6 +49,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -228,6 +229,7 @@
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -271,6 +273,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
