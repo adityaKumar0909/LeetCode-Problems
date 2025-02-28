@@ -29,6 +29,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0853-most-profit-assigning-work](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
@@ -220,6 +221,7 @@
 | [0011-container-with-most-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0853-most-profit-assigning-work](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
@@ -258,6 +260,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0853-most-profit-assigning-work](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
@@ -281,6 +284,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1137-height-checker) |
 ## Bit Manipulation
 |  |
