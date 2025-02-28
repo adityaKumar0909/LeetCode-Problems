@@ -53,6 +53,7 @@
 | [1646-kth-missing-positive-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
@@ -269,6 +270,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1970-sorting-the-sentence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 ## Counting
