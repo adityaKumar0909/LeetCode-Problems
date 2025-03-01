@@ -56,6 +56,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -188,6 +189,7 @@
 | [0633-sum-of-square-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -280,6 +283,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -321,4 +325,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
