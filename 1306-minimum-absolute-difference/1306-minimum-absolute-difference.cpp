@@ -16,11 +16,8 @@ public:
 
         for (int i = 0; i < n - 1; i++) {
             int diff = abs(arr[i + 1] - arr[i]);
-            vector<int> temp;
             if (diff == minDiff) {
-                temp.push_back(arr[i]);
-                temp.push_back(arr[i + 1]);
-                ans.push_back(temp);
+                ans.push_back({arr[i],arr[i + 1]});
             }
         }
 
