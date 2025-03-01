@@ -6,7 +6,6 @@ public:
         sort(s1.begin(),s1.end());
 
 
-        cout<<s1<<endl<<s2<<endl;
 
         bool doesS2broke=true;
         bool doesS1broke=true;
