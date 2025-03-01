@@ -63,6 +63,7 @@
 | [1813-maximum-erasure-value](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -243,6 +244,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -295,6 +297,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
