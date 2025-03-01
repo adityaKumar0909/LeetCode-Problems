@@ -161,6 +161,7 @@
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1454-remove-palindromic-subsequences](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1970-sorting-the-sentence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
@@ -238,6 +239,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -287,6 +289,7 @@
 | [1306-minimum-absolute-difference](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
