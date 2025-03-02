@@ -320,6 +320,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 ## String Matching
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Game Theory
 |  |
