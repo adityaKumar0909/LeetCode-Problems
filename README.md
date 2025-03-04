@@ -28,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -87,6 +88,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -147,6 +149,7 @@
 | [0229-majority-element-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -221,6 +224,7 @@
 | [0283-move-zeroes](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
@@ -293,6 +297,7 @@
 | [0242-valid-anagram](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
