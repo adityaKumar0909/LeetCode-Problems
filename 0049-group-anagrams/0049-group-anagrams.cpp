@@ -11,11 +11,11 @@ public:
 
             //map frequency
             vector<int> freq(26,0);
-            for(auto x:strs[i]) freq[x-'a']++;
+            for(auto &x:strs[i]) freq[x-'a']++;
 
             string currentkey = "";
 
-            for(auto x:freq) currentkey+=x+'0';
+            for(auto &x:freq) currentkey+=x+'0';
 
             mp[currentkey].push_back(strs[i]);
 
