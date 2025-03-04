@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         int size1 = nums1.size();
         for(int i=0;i<size1;i++){
             if(mp[nums1[i]]!=1)
