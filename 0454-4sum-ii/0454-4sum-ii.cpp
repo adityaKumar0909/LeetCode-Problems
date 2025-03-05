@@ -5,21 +5,21 @@ public:
         //Finding all the variations of (a+b) and adding it
         //to map
         unordered_map<int,int> mpp ; 
-        for(int i=0;i<nums1.size();i++){
-            for(int j=0;j<nums2.size();j++){
-                mpp[nums1[i]+nums2[j]]++;
+       for (int a : nums1) {
+            for (int b : nums2) {
+                mpp[a + b]++;
             }
         }
+
         int count = 0;
         //Debugging
         // cout<<st.size();
-         for(int i=0;i<nums3.size();i++){
-            for(int j=0;j<nums4.size();j++){
-                int sum  = nums3[i]+nums4[j];
-                if(mpp.find(-sum)!=mpp.end())
-                count+=mpp[-sum];
+        for (int c : nums3) {
+            for (int d : nums4) {
+                count += mpp[-(c + d)];  
             }
         }
+         
 
 
         return count;
