@@ -154,6 +154,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -174,6 +175,7 @@
 | [0541-reverse-string-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [0953-reverse-only-letters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
@@ -308,6 +310,7 @@
 | [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0853-most-profit-assigning-work](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
