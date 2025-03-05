@@ -7,7 +7,6 @@ public:
         vector<vector<string>> ans;
         for(int i=0;i<n;i++){
 
-            // vector<string> list;
 
             //map frequency
             vector<int> freq(26,0);
