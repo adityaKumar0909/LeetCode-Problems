@@ -79,6 +79,7 @@
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2591-frog-jump-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2591-frog-jump-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3483-alternating-groups-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
@@ -166,6 +167,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+| [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1970-sorting-the-sentence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
+| [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Queue
 |  |
@@ -341,6 +344,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
