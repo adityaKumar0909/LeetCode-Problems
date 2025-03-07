@@ -69,6 +69,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -166,6 +167,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 ## String
@@ -192,6 +194,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1970-sorting-the-sentence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
@@ -351,6 +354,7 @@
 | [0169-majority-element](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting Sort
 |  |
 | ------- |
@@ -363,6 +367,7 @@
 | ------- |
 | [0136-single-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String Matching
 |  |
 | ------- |
