@@ -1,9 +1,9 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        unordered_map<char,int> map;
+        vector<bool> map(26,0);
         for(auto &ch:allowed){
-            map[ch]++;
+            map[ch-'a']=true;
         }
         
         int count=0;
@@ -12,7 +12,9 @@ public:
             bool isNotFound = false;
 
             for(auto &ch:word){
-                if(map.count(ch)==0) isNotFound = true;
+                if(!map[ch-'a']){
+                isNotFound  = true;
+                break;}
             }
 
             if(!isNotFound) count++;
