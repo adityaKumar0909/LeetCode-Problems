@@ -78,6 +78,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -171,6 +172,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -200,6 +202,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1970-sorting-the-sentence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
 | [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -358,6 +361,7 @@
 | [0229-majority-element-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
