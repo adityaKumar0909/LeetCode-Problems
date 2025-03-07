@@ -149,6 +149,7 @@
 | [0049-group-anagrams](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -172,6 +173,7 @@
 | [0049-group-anagrams](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
