@@ -41,6 +41,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0853-most-profit-assigning-work](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
@@ -163,6 +164,7 @@
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
+| [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -187,6 +189,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
+| [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [0953-reverse-only-letters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
