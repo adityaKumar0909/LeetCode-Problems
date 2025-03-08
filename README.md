@@ -55,6 +55,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
+| [1217-relative-sort-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1222-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -169,6 +170,7 @@
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1217-relative-sort-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -344,6 +346,7 @@
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1222-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -375,6 +378,7 @@
 | [0274-h-index](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 ## Bit Manipulation
 |  |
