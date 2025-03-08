@@ -2,7 +2,7 @@ class Solution {
 public:
     int findMaxK(vector<int>& nums) {
 
-        unordered_map<int,int> map;
+        unordered_set<int> map;
         int maxNum=INT_MIN;
 
         for(auto &num:nums){
@@ -10,7 +10,7 @@ public:
                 maxNum = max(abs(num),maxNum);
             }
             else{
-                map[num]=1;
+                map.insert(num);
             }
         }
 
