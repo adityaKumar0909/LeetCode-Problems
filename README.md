@@ -85,6 +85,7 @@
 | [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2591-frog-jump-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2591-frog-jump-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
@@ -174,6 +175,7 @@
 | [1813-maximum-erasure-value](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3227-find-missing-and-repeated-values](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -386,6 +389,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
