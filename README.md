@@ -52,6 +52,7 @@
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
+| [1044-find-common-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
@@ -170,6 +171,7 @@
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1044-find-common-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -201,6 +203,7 @@
 | [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [0953-reverse-only-letters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
+| [1044-find-common-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1454-remove-palindromic-subsequences](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
