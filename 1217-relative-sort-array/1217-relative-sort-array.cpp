@@ -18,7 +18,7 @@ public:
             map.erase(num);
         }
 
-        for(auto &x:ans) cout<<x<<" ";
+        // for(auto &x:ans) cout<<x<<" ";
 
         for(auto &x:map){
             while(x.second-- > 0) {
