@@ -12,12 +12,10 @@ public:
             sum += nums[i];
             rem = sum%k;
             if(rem<0) rem+=k;
-            if(map.find(rem)!=map.end()){
+           
+            count+=map[rem];
+        
 
-                count+=map[rem];
-            }
-
-            // map[-1*rem]++;
             map[rem]++;
 
         }
