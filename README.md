@@ -50,6 +50,7 @@
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
 | [1044-find-common-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1044-find-common-characters) |
@@ -145,6 +146,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -171,6 +173,7 @@
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
