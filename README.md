@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0049-group-anagrams) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0169-majority-element) |
