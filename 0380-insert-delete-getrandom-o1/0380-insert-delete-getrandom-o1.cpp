@@ -24,9 +24,11 @@ public:
      if(map.find(val)!=map.end()){
         int temp  = arr.back();
         int index = map[val];
-
+        
+        if(index != arr.size()-1){
         arr[index] = temp;
         map[temp] = index;
+        }
 
         arr.pop_back();
         map.erase(val);
