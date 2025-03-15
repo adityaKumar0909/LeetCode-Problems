@@ -179,6 +179,7 @@
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
+| [0889-buddy-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1044-find-common-characters) |
@@ -212,6 +213,7 @@
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
+| [0889-buddy-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0889-buddy-strings) |
 | [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [0953-reverse-only-letters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
