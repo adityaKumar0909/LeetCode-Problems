@@ -174,6 +174,7 @@
 | [0389-find-the-difference](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0454-4sum-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
@@ -208,6 +209,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -443,8 +445,13 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0535-encode-and-decode-tinyurl](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
