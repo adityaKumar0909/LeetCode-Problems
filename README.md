@@ -249,6 +249,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0069-sqrtx) |
@@ -463,9 +464,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
