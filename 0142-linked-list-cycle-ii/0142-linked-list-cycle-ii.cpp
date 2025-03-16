@@ -32,7 +32,5 @@ public:
 
         return NULL;
 
-        // if(p==q) return p;
-        // else return NULL;
     }
 };
