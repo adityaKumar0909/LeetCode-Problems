@@ -18,13 +18,10 @@ public:
                 arr[d]--;
                 start++;
                
-            }
-                
-             
+            }  
             maxLength = max(maxLength,end-start+1);
             
             end++;
-
         }
 
 
