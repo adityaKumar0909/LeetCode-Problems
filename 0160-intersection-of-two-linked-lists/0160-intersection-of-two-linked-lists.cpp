@@ -10,39 +10,17 @@ class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
 
-        //connect tail of headA to head of LL2 and if they meet it's a common point;
+        if(!headA || !headB) return NULL;
 
-        ListNode* temp = headA;
-        while(temp->next){
-            temp = temp->next;
+        ListNode *a = headA;
+        ListNode *b = headB;
+
+        while(a!=b){
+            a = (a==NULL) ? headB : a->next;
+            b = (b==NULL) ? headA : b->next;
         }
 
-        temp->next = headB;
-
-        ListNode* slow = headA;
-        ListNode* fast = headA;
-
-        while(fast->next && fast->next->next){
-            
-            slow = slow->next;
-            fast = fast->next->next;
-            if(slow==fast){
-                slow = headA;
-                while(slow!=fast){
-                    slow = slow->next;
-                    fast = fast->next;
-                }
-                temp->next = NULL;
-                return slow;
-            }
-        }
-
-
-        temp->next = NULL;
-        
-        return NULL;
-
-
+        return a;
 
         
     }
