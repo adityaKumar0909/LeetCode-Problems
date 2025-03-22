@@ -90,6 +90,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2591-frog-jump-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -121,6 +122,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2591-frog-jump-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -157,6 +159,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +334,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2591-frog-jump-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2591-frog-jump-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -398,6 +402,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2502-sort-the-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Counting
 |  |
 | ------- |
