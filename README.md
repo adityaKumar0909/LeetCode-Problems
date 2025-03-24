@@ -207,6 +207,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0069-sqrtx) |
@@ -443,6 +445,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Interactive
