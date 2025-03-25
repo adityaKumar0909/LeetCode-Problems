@@ -222,6 +222,7 @@
 | [0541-reverse-string-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0800-letter-case-permutation](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0889-buddy-strings) |
@@ -429,6 +430,7 @@
 | [0136-single-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0800-letter-case-permutation](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String Matching
 |  |
@@ -494,4 +496,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
