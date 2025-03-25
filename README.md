@@ -192,6 +192,7 @@
 | [0940-fruit-into-baskets](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1044-find-common-characters) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -270,6 +271,7 @@
 | [0633-sum-of-square-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0935-orderly-queue](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0935-orderly-queue) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
