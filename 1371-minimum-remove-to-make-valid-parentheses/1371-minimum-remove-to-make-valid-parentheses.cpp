@@ -4,19 +4,17 @@ public:
         int countOpenBracket = 0;
         string firstPass = "";
         
-        // First Pass: Remove Extra ')'
         for (char c : s) {
             if (c == '(') {
                 countOpenBracket++;
             } 
             else if (c == ')') {
-                if (countOpenBracket == 0) continue; // Ignore unmatched ')'
+                if (countOpenBracket == 0) continue; 
                 countOpenBracket--;
             }
             firstPass += c;
         }
 
-        // Second Pass: Remove Extra '(' (Efficiently)
         vector<char> ans;
         int countCloseBracket = 0;
         
@@ -27,13 +25,12 @@ public:
                 countCloseBracket++;
             } 
             else if (c == '(') {
-                if (countCloseBracket == 0) continue; // Ignore unmatched '('
+                if (countCloseBracket == 0) continue; 
                 countCloseBracket--;
             }
             ans.push_back(c);
         }
 
-        // Reverse to get the correct order
         reverse(ans.begin(), ans.end());
 
         return string(ans.begin(), ans.end());
