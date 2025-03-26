@@ -231,6 +231,7 @@
 | [0953-reverse-only-letters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1044-find-common-characters) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -354,6 +355,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
