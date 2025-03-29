@@ -6,11 +6,13 @@ public:
 
     int next(int price) {
 
+        int temp = 1;
+
         while (!stk.empty() && stk.top().first <= price) {
+            temp+=stk.top().second;
             stk.pop();
         }
-        int temp = (!stk.empty()) ? index - stk.top().second : index+1;
-        stk.push({price, index++});
+        stk.push({price, temp});
         return temp ;
     }
 };
