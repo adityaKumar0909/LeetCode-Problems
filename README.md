@@ -356,11 +356,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0937-online-stock-span) |
 ## Line Sweep
 |  |
 | ------- |
@@ -475,6 +477,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0838-design-linked-list](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0937-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
@@ -506,4 +509,8 @@
 |  |
 | ------- |
 | [0800-letter-case-permutation](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
