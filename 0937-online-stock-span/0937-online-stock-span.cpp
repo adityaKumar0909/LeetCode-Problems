@@ -1,6 +1,6 @@
 class StockSpanner {
 public:
-    int index = -1;
+    int index ;
     stack<pair<int, int>> stk;
     StockSpanner() { index = 0; }
 
