@@ -42,6 +42,7 @@
 | [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
@@ -356,6 +357,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
@@ -455,6 +457,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Interactive
