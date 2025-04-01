@@ -36,6 +36,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -183,6 +184,7 @@
 | [0389-find-the-difference](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0937-online-stock-span) |
 ## Line Sweep
 |  |
