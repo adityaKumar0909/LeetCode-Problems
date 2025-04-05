@@ -42,6 +42,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -188,6 +189,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Queue
 |  |
@@ -331,6 +334,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
@@ -391,6 +395,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0807-custom-sort-string](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0853-most-profit-assigning-work](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
@@ -425,6 +430,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
