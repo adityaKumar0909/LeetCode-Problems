@@ -86,6 +86,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2165-plates-between-candles) |
@@ -349,6 +350,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2591-frog-jump-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2591-frog-jump-ii) |
