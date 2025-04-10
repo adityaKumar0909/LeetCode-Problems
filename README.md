@@ -331,6 +331,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0397-integer-replacement](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0561-array-partition) |
@@ -360,6 +361,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0397-integer-replacement](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
@@ -451,6 +453,7 @@
 | [0136-single-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0800-letter-case-permutation](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String Matching
@@ -528,4 +531,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0937-online-stock-span) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
