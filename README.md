@@ -17,6 +17,7 @@
 | [0056-merge-intervals](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0135-candy](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0164-maximum-gap) |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
