@@ -36,9 +36,8 @@ public:
 
         for(auto x:candies){
             count+=x;
-            cout<<x<<" ";        }
-
-
+            // cout<<x<<" ";    
+        }
 
         return count;
         
