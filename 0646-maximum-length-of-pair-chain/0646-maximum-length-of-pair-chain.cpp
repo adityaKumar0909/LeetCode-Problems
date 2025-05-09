@@ -14,7 +14,7 @@ public:
         int lastEle = pairs[0][1];
 
         int size = pairs.size();
-        cout<<len<<endl;
+        // cout<<len<<endl;
 
 
         for(int i=1;i<size;i++){
@@ -26,7 +26,7 @@ public:
             }
             
 
-            cout<<len<<endl;
+            // cout<<len<<endl;
 
 
         }
