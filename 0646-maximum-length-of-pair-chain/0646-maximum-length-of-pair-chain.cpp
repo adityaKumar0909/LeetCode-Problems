@@ -25,10 +25,7 @@ public:
                 lastEle = pairs[i][1];
             }
             
-
             // cout<<len<<endl;
-
-
         }
 
         return len;
