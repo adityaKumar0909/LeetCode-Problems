@@ -23,6 +23,7 @@
 | [0164-maximum-gap](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0229-majority-element-ii) |
@@ -474,6 +475,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -553,4 +555,16 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0164-maximum-gap) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
