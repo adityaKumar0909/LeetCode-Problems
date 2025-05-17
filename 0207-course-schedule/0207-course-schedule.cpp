@@ -5,7 +5,7 @@ public:
         visited[i]  = true;
         pathSeenInThisCycle[i] = true;
 
-        for(auto x:adj[i]){
+        for(auto &x:adj[i]){
             if(!visited[x])
             {
                 if(dfs(x,adj,visited,pathSeenInThisCycle)) return true;
@@ -21,7 +21,7 @@ public:
     bool canFinish(int n, vector<vector<int>>& prereq) {
 
         vector<vector<int>> adj(n);
-        for(auto x:prereq){
+        for(auto &x:prereq){
             adj[x[1]].push_back(x[0]); 
         }
         vector<bool> visited(n,false);
