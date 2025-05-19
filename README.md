@@ -17,6 +17,7 @@
 | [0056-merge-intervals](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -176,6 +177,7 @@
 | [0041-first-missing-positive](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -568,6 +570,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
 ## Graph
 |  |
