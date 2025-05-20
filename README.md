@@ -50,6 +50,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
@@ -479,6 +480,7 @@
 | [0048-rotate-image](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -562,16 +564,19 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0695-max-area-of-island](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0695-max-area-of-island](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
