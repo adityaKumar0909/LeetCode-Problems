@@ -25,11 +25,12 @@ public:
      return;
     }
     int maxAreaOfIsland(vector<vector<int>>& grid) {
-        vector<vector<int>> vis(grid.size(),vector<int>(grid[0].size(),0));
         int maxArea = 0;
 
         int row = grid.size();
         int col = grid[0].size();
+        vector<vector<int>> vis(row,vector<int>(col,0));
+
 
 
         for(int i=0;i<row;i++){
