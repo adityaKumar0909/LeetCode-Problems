@@ -564,6 +564,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -585,4 +586,16 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0207-course-schedule) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityaKumar0909/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
